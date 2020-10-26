@@ -1,0 +1,14 @@
+.card{
+    padding: 20px;
+}
+
+.card-content h6{
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-content p{
+    font-weight: 500;
+    font-size: 15px;
+}

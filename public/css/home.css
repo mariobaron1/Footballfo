@@ -1,0 +1,23 @@
+.container h3{
+    font-weight: 700;
+    text-align: center;
+}
+
+.card{
+    padding: 20px;
+    min-height: 400px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card-content h6{
+    font-weight: 700;
+    text-align: center;
+}
+
+.card-content p{
+    text-align: center;
+}
